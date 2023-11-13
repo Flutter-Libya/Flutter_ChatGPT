@@ -1,14 +1,5 @@
 # Flutter ChatGpt with Clean Architecture
 
-### Show some  <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png" width="30" height="30" />   and star the repo to support the project
-
-
-<br />
-<img src="https://user-images.githubusercontent.com/10207753/84770526-2589fa00-aff1-11ea-83bf-f1255b9371ac.jpg" width="50" height="30" />
-<a href="https://youtu.be/ESfABjnWYd4">ChatGPT + Flutter Tutorial - Crash Course on ChatGPT for Beginners</a>
-<br/>
-
-
 ### Screenshots
 
 <p float="left">
@@ -33,15 +24,3 @@
 </p>
  
  
-
-
-
-### # The Clean Architecture [proposed by our friendly Uncle Bob](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/10207753/93004894-e8d48d00-f564-11ea-9f34-8614c783e98a.jpg" height="400" /> 
-    <p/>
-    
-### Created & Maintained By
-
-[@MA](https://github.com/amirk3321) , Youtube : [@eTechViral](https://www.youtube.com/c/eTechViral) , Twitter  : [@MA](https://twitter.com/__muhammad_amir)
