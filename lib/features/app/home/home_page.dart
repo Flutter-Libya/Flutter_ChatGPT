@@ -1,12 +1,8 @@
-
-
 import 'package:flutter/material.dart';
 import 'package:flutter_chatgpt/features/app/app_const/page_const.dart';
 import 'package:flutter_chatgpt/features/app/home/widgets/home_button_widget.dart';
-
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
